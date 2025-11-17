@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-project_path = "project-all"
+project_path = "project_all"
 
 dif_lists = [
     ".github/workflows/.gitkeep",
